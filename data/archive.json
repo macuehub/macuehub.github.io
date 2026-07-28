@@ -1,0 +1,87 @@
+{
+  "events": [
+    {
+      "id": "2026-first",
+      "date": "2026-06-20",
+      "editionJa": "第1回",
+      "editionEn": "1st Workshop",
+      "titleJa": "過去の研究会タイトル",
+      "titleEn": "Previous Workshop Title",
+      "summaryJa": "会場名 / 参加者35名 / 主催団体名",
+      "summaryEn": "Venue / 35 participants / Organizer",
+      "venueJa": "○○大学",
+      "venueEn": "Example University",
+      "descriptionJa": "過去回の目的、議論の概要、成果などを記載します。",
+      "descriptionEn": "Describe the aims, discussion highlights, and outcomes of the past workshop.",
+      "reportUrl": "#",
+      "programUrl": "#",
+      "materialsUrl": "#",
+      "days": [
+        {
+          "date": "2026-06-20",
+          "labelJa": "1日目",
+          "labelEn": "Day 1",
+          "dateJa": "2026年6月20日（土）",
+          "dateEn": "Saturday, June 20, 2026",
+          "sessions": [
+            {
+              "time": "13:00–14:00",
+              "typeJa": "基調講演",
+              "typeEn": "Keynote",
+              "titleJa": "過去回の基調講演タイトル",
+              "titleEn": "Past keynote title",
+              "personJa": "講演者名（所属）",
+              "personEn": "Speaker (Affiliation)"
+            },
+            {
+              "time": "14:20–17:00",
+              "typeJa": "研究発表",
+              "typeEn": "Presentations",
+              "titleJa": "研究発表セッション",
+              "titleEn": "Research presentations",
+              "personJa": "発表者一覧",
+              "personEn": "Presenter list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2025-preparatory",
+      "date": "2025-11-15",
+      "editionJa": "準備会",
+      "editionEn": "Preparatory Meeting",
+      "titleJa": "準備会・関連イベントのタイトル",
+      "titleEn": "Preparatory Meeting or Related Event",
+      "summaryJa": "オンライン / 参加者18名 / 主催団体名",
+      "summaryEn": "Online / 18 participants / Organizer",
+      "venueJa": "オンライン",
+      "venueEn": "Online",
+      "descriptionJa": "本研究会の設立に向けて行った準備会です。",
+      "descriptionEn": "A preparatory meeting held before the launch of the workshop series.",
+      "reportUrl": "",
+      "programUrl": "",
+      "materialsUrl": "",
+      "days": [
+        {
+          "date": "2025-11-15",
+          "labelJa": "開催日",
+          "labelEn": "Event day",
+          "dateJa": "2025年11月15日（土）",
+          "dateEn": "Saturday, November 15, 2025",
+          "sessions": [
+            {
+              "time": "15:00–17:00",
+              "typeJa": "意見交換",
+              "typeEn": "Discussion",
+              "titleJa": "研究会設立に向けた意見交換",
+              "titleEn": "Discussion toward establishing the workshop",
+              "personJa": "発起人・参加者",
+              "personEn": "Founders and participants"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

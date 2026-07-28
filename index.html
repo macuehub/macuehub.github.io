@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="ja" data-root=".">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Workshop on MatheMatical Modeling of Cultural Evolution and Human Behavior</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body id="top">
+        <header class="site-header">
+            <div class="utility-bar">
+                <div class="container utility-inner"><p data-site-short></p><nav><a href="index.html">日本語</a> / <a href="en/index.html" lang="en">English</a></nav>
+                </div>
+            </div>
+            <div class="container branding"><a class="site-title" href="index.html"><span class="site-title-ja" data-site-title></span><span class="site-title-en" data-site-title-en></span></a>
+            </div>
+            <nav class="main-nav">
+                <div class="container nav-inner">
+                    <a href="index.html#about">研究会について</a>
+                    <a href="news.html">お知らせ</a>
+                    <a href="index.html#program">プログラム</a>
+                    <a href="location.html">開催場所</a>
+                    <a href="registration.html">参加登録</a>
+                    <!--
+                    <a href="archive.html">開催記録</a>
+                    -->
+                    <!--
+                    <a href="index.html#committee">実行委員</a>
+                    -->
+                </div>
+            </nav>
+        </header>
+        <main>
+            <section class="hero">
+                <div class="container hero-inner">
+                    <div><p class="label" data-event-label></p>
+                        <h1 data-event-title></h1>
+                        <p class="hero-lead" data-event-lead></p>
+                    </div>
+                        <aside class="event-summary">
+                        <h2>開催日時</h2>
+                        <dl>
+                            <div>
+                                <dt>日程</dt><dd data-event-date></dd>
+                            </div>
+                            <div>
+                                <dt>開始時間</dt><dd data-event-time></dd>
+                            </div>
+                            <div>
+                                <dt>会場</dt><dd data-event-venue></dd>
+                            </div>
+                            <div>
+                                <dt>使用言語</dt><dd data-event-language></dd>
+                            </div>
+                        </dl>
+                        <div class="button-row">
+                            <a class="button" href="registration.html">参加登録</a><a class="button button-secondary" href="location.html">開催場所</a>
+                        </div>
+                        </aside>
+                </div>
+            </section>
+            <section class="section section-compact">
+                <div class="container section-grid">
+                    <header class="section-heading">
+                        <p class="section-label">NEWS</p>
+                        <h2>お知らせ</h2>
+                    </header>
+                    <div>
+                        <div class="news-list" data-news-list data-limit="3" data-loading>読み込み中...</div>
+                        <p class="section-more"><a href="news.html">お知らせ一覧を見る →</a></p>
+                    </div>
+                </div>
+            </section>
+            <section id="about" class="section section-alt">
+                <div class="container section-grid">
+                    <header class="section-heading">
+                        <p class="section-label">ABOUT</p>
+                        <h2>研究会について</h2>
+                    </header>
+                    <div class="prose"><p data-site-description></p>
+                        <div class="info-table">
+                            <div class="info-row">
+                                <div class="info-key">対象</div>
+                                <div data-audience></div>
+                            </div>
+                            <div class="info-row">
+                                <div class="info-key">主催</div>
+                                <div data-organizer></div>
+                            </div>
+                            <div class="info-row">
+                                <div class="info-key">共催・協力</div>
+                                <div data-coorganizer></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="program" class="section">
+                <div class="container section-grid">
+                    <header class="section-heading">
+                        <p class="section-label">PROGRAM</p>
+                        <h2>プログラム</h2><p>2泊3日で実施します。</p>
+                        <div data-program-pdf></div>
+                    </header>
+                    <div data-program-list data-loading>読み込み中...</div>
+                </div>
+            </section>
+            <section id="speakers" class="section section-alt">
+                <div class="container section-grid">
+                    <header class="section-heading">
+                        <p class="section-label">SPEAKERS</p>
+                        <h2>登壇者</h2></header>
+                        <div class="speaker-list" data-speakers-list></div>
+                    </div>
+            </section>
+            <section id="committee" class="section">
+                <div class="container section-grid">
+                    <header class="section-heading">
+                        <p class="section-label">COMMITTEE</p>
+                        <h2>実行委員</h2></header>
+                        <div class="committee-grid" data-committee-list></div>
+                    </div>
+            </section>
+            <section class="section registration">
+                <div class="container registration-inner">
+                    <div>
+                        <p class="section-label">REGISTRATION</p>
+                        <h2>参加登録・旅費等支援</h2>
+                        <p>参加申込、旅費支援、宿泊費支援の詳細をご確認ください。</p>
+                    </div>
+                    <a class="button" href="registration.html">詳細を見る</a>
+                </div>
+            </section>
+        </main>
+        <footer class="site-footer">
+            <div class="container footer-grid">
+                <div>
+                    <p class="footer-title" data-site-title></p>
+                    <p data-site-title-en></p>
+                </div>
+                <div>
+                    <h2>お問い合わせ</h2>
+                    <p><a data-email></a></p>
+                </div>
+                <div>
+                    <h2>関連リンク</h2>
+                    <p><a data-github target="_blank" rel="noopener">GitHub</a></p>
+                </div>
+            </div>
+            <div class="container footer-bottom">
+                <small>© <span data-copyright-year></span> Workshop Organizing Committee.</small>
+                <a href="#top">ページ上部へ</a>
+            </div>
+        </footer>
+        <script src="app.js"></script>
+    </body>
+</html>

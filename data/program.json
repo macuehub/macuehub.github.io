@@ -1,0 +1,97 @@
+{
+  "pdfUrl": "files/program-2027.pdf",
+  "pdfLabelJa": "プログラムPDFをダウンロード",
+  "pdfLabelEn": "Download program PDF",
+  "days": [
+    {
+      "date": "2026-09-12",
+      "labelJa": "1日目",
+      "labelEn": "Day 1",
+      "dateJa": "2026年9月12日（土）",
+      "dateEn": "Saturday, September 12, 2026",
+      "sessions": [
+        {
+          "time": "13:00–13:10",
+          "typeJa": "開会",
+          "typeEn": "Opening",
+          "titleJa": "開会挨拶・趣旨説明",
+          "titleEn": "Opening remarks and introduction",
+          "personJa": "主催者名（所属）",
+          "personEn": "Organizer name (Affiliation)"
+        },
+        {
+          "time": "13:10–14:10",
+          "typeJa": "基調講演",
+          "typeEn": "Keynote Lecture",
+          "titleJa": "基調講演のタイトルを入力してください",
+          "titleEn": "Enter the keynote lecture title",
+          "personJa": "講演者名（所属機関）",
+          "personEn": "Speaker name (Affiliation)"
+        },
+        {
+          "time": "14:20–17:00",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション I",
+          "titleEn": "Research presentation session I",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "labelJa": "2日目",
+      "labelEn": "Day 2",
+      "dateJa": "2026年9月13日（日）",
+      "dateEn": "Sunday, September 13, 2026",
+      "sessions": [
+        {
+          "time": "09:30–12:00",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション II",
+          "titleEn": "Research presentation session II",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        },
+        {
+          "time": "13:30–17:00",
+          "typeJa": "ワークショップ",
+          "typeEn": "Workshop",
+          "titleJa": "方法論ワークショップ",
+          "titleEn": "Methodology workshop",
+          "personJa": "担当者名（所属機関）",
+          "personEn": "Facilitator name (Affiliation)"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "labelJa": "3日目",
+      "labelEn": "Day 3",
+      "dateJa": "2026年9月14日（月）",
+      "dateEn": "Monday, September 14, 2026",
+      "sessions": [
+        {
+          "time": "09:30–11:30",
+          "typeJa": "総合討論",
+          "typeEn": "Discussion",
+          "titleJa": "総合討論と今後の共同研究",
+          "titleEn": "General discussion and future collaboration",
+          "personJa": "モデレーター名（所属機関）",
+          "personEn": "Moderator name (Affiliation)"
+        },
+        {
+          "time": "11:30–12:00",
+          "typeJa": "閉会",
+          "typeEn": "Closing",
+          "titleJa": "まとめ・閉会挨拶",
+          "titleEn": "Summary and closing remarks",
+          "personJa": "主催者名（所属）",
+          "personEn": "Organizer name (Affiliation)"
+        }
+      ]
+    }
+  ]
+}

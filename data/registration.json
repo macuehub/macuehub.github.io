@@ -1,0 +1,39 @@
+{
+  "statusJa": "参加登録受付中",
+  "statusEn": "Registration open",
+  "introJa": "研究会への参加を希望する方は、下記の申込フォームから必要事項をご登録ください。参加可否や支援の結果は、登録メールアドレスへお知らせします。",
+  "introEn": "Please submit the registration form below. Registration and funding decisions will be sent to your registered email address.",
+  "deadlineJa": "2026年9月5日（土）",
+  "deadlineEn": "September 5, 2026",
+  "feeJa": "参加費無料",
+  "feeEn": "No registration fee",
+  "capacityJa": "定員50名（申込多数の場合は選考）",
+  "capacityEn": "Capacity: 50 participants; selection may apply",
+  "formUrl": "https://forms.google.com/",
+  "travelSupport": {
+    "available": true,
+    "titleJa": "旅費支援",
+    "titleEn": "Travel support",
+    "bodyJa": "若手研究者・大学院生等を対象に、国内交通費の全部または一部を支援できる場合があります。申込フォームで希望の有無、出発地、概算額、所属・身分を入力してください。採否と支援額は予算および申請状況を踏まえて決定します。",
+    "bodyEn": "Partial or full domestic travel support may be available for early-career researchers and graduate students. Provide your departure point, estimated cost, affiliation, and status in the form."
+  },
+  "lodgingSupport": {
+    "available": true,
+    "titleJa": "宿泊費支援",
+    "titleEn": "Accommodation support",
+    "bodyJa": "遠方から参加する方を対象に、主催者が指定する宿泊施設の手配または宿泊費の一部支援を行う場合があります。対象泊数、上限額、領収書の要否などは採択者へ個別に案内します。",
+    "bodyEn": "Accommodation arrangements or partial lodging support may be available for participants traveling from outside the area. Details will be provided to selected applicants."
+  },
+  "conditionsJa": [
+    "支援には上限があり、申請者全員に提供できるとは限りません。",
+    "他の研究費等との重複受給はできません。",
+    "キャンセル時の費用は原則として本人負担です。",
+    "領収書や旅程表などの提出を求める場合があります。"
+  ],
+  "conditionsEn": [
+    "Funding is limited and cannot be guaranteed for all applicants.",
+    "Duplicate reimbursement from other funding sources is not allowed.",
+    "Cancellation costs are normally the participant’s responsibility.",
+    "Receipts and itinerary documents may be required."
+  ]
+}

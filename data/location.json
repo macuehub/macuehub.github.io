@@ -1,0 +1,30 @@
+{
+  "venueNameJa": "総合研究大学院大学 統合進化科学研究センター",
+  "venueNameEn": "Research Center for Integrative Evolutionary Science, SOKENDAI",
+  "addressJa": "〒240-0193 神奈川県三浦郡葉山町（湘南国際村）",
+  "addressEn": "Shonan Village, Hayama, Kanagawa, 240-0193, Japan",
+  "roomJa": "共通棟 1F 101/102 セミナー室",
+  "roomEn": "Common Building, 1F Seminar Room 101/102",
+  "remarkJa": [
+    "京急バス「湘南国際村センター」下車",
+    "近辺にはコンビニ（ファミリーマート）が1件あります"
+  ],
+  "remarkEn": [
+    "Take bus for \"Shonan Kokusaimura(Shonan Village) Center Mae\" ",
+    "There's only one convenience store(Family Mart) in the neighborhood."
+  ],
+  "accessJa": [
+    "○○駅東口から徒歩8分",
+    "空港から○○駅まで鉄道で約60分",
+    "正門で入館手続きが必要です。"
+  ],
+  "accessEn": [
+    "Take bus for \"Shonan Kokusaimura(Shonan Village) Center Mae\" ",
+    "There's only one convenience store in the neighborhood."
+  ],
+  "mapEmbedUrl": "",
+  "mapUrl": "https://www.google.com/maps?cid=6118743411005993080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=ja&gl=JP&source=embed",
+  "campusMapUrl": "https://www.soken.ac.jp/access/",
+  "notesJa": "ご不明な点があれば事前に実行委員会へご連絡ください。",
+  "notesEn": "Contact the organizing committee in advance if you have any question."
+}

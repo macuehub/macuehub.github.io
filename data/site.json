@@ -1,0 +1,19 @@
+{
+  "shortName": "Research Workshop",
+  "titleJa": "Workshop on Mathematical Modeling of Cultural Evolution and Human Behavior",
+  "titleEn": "Workshop on Mathematical Modeling of Cultural Evolution and Human Behavior",
+  "descriptionJa": "［研究分野・テーマ］に関心を持つ研究者・大学院生が、最新の知見と方法論を共有し、分野横断的な議論を行う研究会です。",
+  "descriptionEn": "A research workshop for researchers and graduate students to exchange recent findings, methods, and interdisciplinary perspectives.",
+  "organizerJa": "MACUEHUB 実行委員会",
+  "organizerEn": "MACUEHUB Organizing Committee",
+  "coorganizerJa": "共催機関名（該当する場合）",
+  "coorganizerEn": "共催機関名（該当する場合）",
+  "audienceJa": "文化進化・人間行動の数理モデル研究に携わる研究者",
+  "audienceEn": "Researcher working on mathematical models of cultural evolution and human behavior",
+  "email": "your-email@example.com",
+  "github": "https://github.com/your-organization",
+  "institutionUrl": "#",
+  "copyrightYear": "2026",
+  "committeeLabelJa": "実行委員会",
+  "committeeLabelEn": "Organizing Committee"
+}
