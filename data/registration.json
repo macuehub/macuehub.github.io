@@ -3,37 +3,76 @@
   "statusEn": "Registration open",
   "introJa": "研究会への参加を希望する方は、下記の申込フォームから必要事項をご登録ください。参加可否や支援の結果は、登録メールアドレスへお知らせします。",
   "introEn": "Please submit the registration form below. Registration and funding decisions will be sent to your registered email address.",
-  "deadlineJa": "2026年9月5日（土）",
-  "deadlineEn": "September 5, 2026",
-  "feeJa": "参加費無料",
-  "feeEn": "No registration fee",
-  "capacityJa": "定員50名（申込多数の場合は選考）",
-  "capacityEn": "Capacity: 50 participants; selection may apply",
-  "formUrl": "https://forms.google.com/",
+  "deadlineRegiJa": "2027年2月10日（水）",
+  "deadlineRegiEn": "Feburary 10, 2027",
+  "deadlineAbstJa": "2027年2月22日（月）",
+  "deadlineAbstEn": "Feburary 22, 2027",
+  "deadlineTravelJa": "2027年1月27日（水）",
+  "deadlineTravelEn": "january 27, 2027",
+  "feeJa": "約6,000円-8,000円(助成金採択がない場合)",
+  "feeEn": "Approx. 6,000 - 8,000 JPY(If No Grant Funding Is Awarded)",
+  "capacityJa": "定員約30名",
+  "capacityEn": "Capacity: Approx.30 participants",
+  "formUrlRegi":"https://forms.gle/hoA4FtNzgSg2JbAQ8",
+  "formUrlRegiAbst":"https://forms.gle/SKsJm2362sPWUg1R8",
+  "formUrlTravelGrant":"https://forms.gle/HpyhfAVXX36omJu2A",
+  "formUrlStaff":"https://forms.gle/d81dr8mG5dQMbvuG8",
+  "remarkJa": [
+    "参加費には1日目夕食・2日目昼食・2日目夕食を含みます。",
+    "最終的な参加費は申請中の助成金申請の結果によって変動します。最終的な参加費は1月中旬までに案内します。",
+    "参加者には大学の宿泊施設を無料でご利用いただけます(相部屋・定員約20名・先着順)。",
+    "参加登録締切前であっても、大学の宿泊施設が定員になる場合があります。早めの申し込みをお願いします。",
+    "大学の宿泊施設が定員になった場合、予算に余裕があればその範囲で大学近隣の宿泊施設への宿泊費を補助します。",
+    "大学宿泊施設を利用しない場合（自己資金で近隣の宿泊施設に宿泊する・日帰り参加）は定員を超過して参加可能です。"
+  ],
+  "remarkEn": [
+    "The registration fee includes dinner on the first day, as well as lunch and dinner on the second day.",
+    "The final registration fee will depend on the outcome of our pending grant applications. We will announce the confirmed fee by mid-January.",
+    "Participants can stay at the university's accommodation facilities free of charge (shared rooms, capacity of approximately 20 people, available on a first-come, first-served basis).",
+    "The university accommodation facilities may reach full capacity before the registration deadline. We therefore encourage you to register as early as possible.",
+    "If the university accommodation facilities reach full capacity, we may provide financial support for accommodation at nearby facilities, subject to the availability of funds.",
+    "Participants who do not require university accommodation (i.e., those who stay at nearby accommodation facilities at their own expense or attend as day participants) may participate even if the university accommodation facilities have reached full capacity."
+  ],
   "travelSupport": {
     "available": true,
     "titleJa": "旅費支援",
     "titleEn": "Travel support",
-    "bodyJa": "若手研究者・大学院生等を対象に、国内交通費の全部または一部を支援できる場合があります。申込フォームで希望の有無、出発地、概算額、所属・身分を入力してください。採否と支援額は予算および申請状況を踏まえて決定します。",
+    "bodyJa": "若手研究者・大学院生等を対象に、国内交通費の全部または一部を支援します。旅費支援申請フォームで出発地、概算額、所属・身分を入力してください。採否と支援額は予算および申請状況を踏まえて決定します。",
     "bodyEn": "Partial or full domestic travel support may be available for early-career researchers and graduate students. Provide your departure point, estimated cost, affiliation, and status in the form."
   },
   "lodgingSupport": {
     "available": true,
-    "titleJa": "宿泊費支援",
+    "titleJa": "宿泊支援",
     "titleEn": "Accommodation support",
-    "bodyJa": "遠方から参加する方を対象に、主催者が指定する宿泊施設の手配または宿泊費の一部支援を行う場合があります。対象泊数、上限額、領収書の要否などは採択者へ個別に案内します。",
-    "bodyEn": "Accommodation arrangements or partial lodging support may be available for participants traveling from outside the area. Details will be provided to selected applicants."
+    "bodyJa": "参加者には大学の宿泊施設を無料でご利用いただけます（同性相部屋）。参加登録フォームで宿泊施設利用の希望の有無を入力してください。大学宿泊施設が定員になった場合、可能な範囲で宿泊費を補助します。",
+    "bodyEn": "Participants can stay at the university's accommodation facilities free of charge (shared rooms with participants of the same gender). Please indicate whether you wish to use the university accommodation facilities on the registration form. If the facilities reach full capacity, we may provide financial support for alternative accommodation, subject to the availability of budgets."
   },
   "conditionsJa": [
     "支援には上限があり、申請者全員に提供できるとは限りません。",
+    "大学宿泊施設に宿泊可能な人に対して、優先的に旅費支援を行います。",
+    "大学宿泊施設の定員を超過したあとは、残予算の範囲でバランスを考慮して旅費支援と宿泊費支援を行います。",
     "他の研究費等との重複受給はできません。",
     "キャンセル時の費用は原則として本人負担です。",
-    "領収書や旅程表などの提出を求める場合があります。"
+    "領収書や旅程表などの提出を求める場合があります。",
+    "旅費・交通費は総合研究大学院大学の旅費規定に基づいて支払われ、事後振込になります。"
   ],
   "conditionsEn": [
     "Funding is limited and cannot be guaranteed for all applicants.",
+    "Priority for travel support will be given to participants who are able to stay at the university accommodation facilities.",
+    "Once the university accommodation facilities reach full capacity, travel and accommodation support will be provided within the remaining budget, taking into account the balance between the two types of support.",
     "Duplicate reimbursement from other funding sources is not allowed.",
     "Cancellation costs are normally the participant’s responsibility.",
-    "Receipts and itinerary documents may be required."
+    "Receipts and itinerary documents may be required.",
+    "Travel expenses, including transportation costs, will be reimbursed after the workshop via bank transfer, in accordance with the travel regulations of SOKENDAI (The Graduate University for Advanced Studies)."
+  ],
+  "assistantJa": [
+    "前日・会期中に会場設営や運営を手伝ってくれるアシスタントスタッフを若干名募集します。",
+    "対応可能な日程だけでも問題ありません。",
+    "希望する方はアシスタントスタッフの募集フォームから応募してください。"
+  ],
+  "assistantEn": [
+    "We are recruiting a small number of assistant staff members to help with venue setup and workshop operations on the day before and during the workshop.",
+    "You are welcome to help on the days you are available.",
+    "If you are interested, please apply through the Assistant Staff Application Form."
   ]
 }

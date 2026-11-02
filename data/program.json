@@ -4,14 +4,23 @@
   "pdfLabelEn": "Download program PDF",
   "days": [
     {
-      "date": "2026-09-12",
+      "date": "2027-03-9",
       "labelJa": "1日目",
       "labelEn": "Day 1",
-      "dateJa": "2026年9月12日（土）",
-      "dateEn": "Saturday, September 12, 2026",
+      "dateJa": "2027年3月9日（火）",
+      "dateEn": "Tuesday, March 12, 2027",
       "sessions": [
         {
-          "time": "13:00–13:10",
+          "time": "10:30-11:30",
+          "typeJa": "Ice Break",
+          "typeEn": "Ice Break",
+          "titleJa": "(Optional) プレワークショップ: 数理に親しむ",
+          "titleEn": "Pre Workshop: Enjoy Mathematics!(Optinal)",
+          "personJa": "実行委員企画",
+          "personEn": "Organizing Commitee"
+        },
+        {
+          "time": "13:00-13:10",
           "typeJa": "開会",
           "typeEn": "Opening",
           "titleJa": "開会挨拶・趣旨説明",
@@ -20,76 +29,166 @@
           "personEn": "Organizer name (Affiliation)"
         },
         {
-          "time": "13:10–14:10",
-          "typeJa": "基調講演",
-          "typeEn": "Keynote Lecture",
-          "titleJa": "基調講演のタイトルを入力してください",
-          "titleEn": "Enter the keynote lecture title",
-          "personJa": "講演者名（所属機関）",
-          "personEn": "Speaker name (Affiliation)"
+          "time": "13:10-13:20",
+          "typeJa": "開会",
+          "typeEn": "Opening",
+          "titleJa": "RCEIS紹介",
+          "titleEn": "Opening remarks and introduction",
+          "personJa": "総合研究大学院大学 統合進化科学コース 下平剛司",
+          "personEn": "Tsuyoshi Shimodaira (The Graduate University for Advanced Studies, Research Center for Integrative Evolutionary Science)"
         },
         {
-          "time": "14:20–17:00",
+          "time": "13:20-14:50",
           "typeJa": "研究発表",
           "typeEn": "Research Presentations",
           "titleJa": "研究発表セッション I",
           "titleEn": "Research presentation session I",
-          "personJa": "発表者名、発表題目、所属を記載します。",
-          "personEn": "List presenters, presentation titles, and affiliations."
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "labelJa": "2日目",
-      "labelEn": "Day 2",
-      "dateJa": "2026年9月13日（日）",
-      "dateEn": "Sunday, September 13, 2026",
-      "sessions": [
+          "personJa": "講演者名（所属機関）",
+          "personEn": "Speaker name (Affiliation)"
+        },
         {
-          "time": "09:30–12:00",
+          "time": "15:20-16:50",
           "typeJa": "研究発表",
           "typeEn": "Research Presentations",
-          "titleJa": "研究発表セッション II",
-          "titleEn": "Research presentation session II",
+          "titleJa": "研究発表セッション Ⅱ",
+          "titleEn": "Research presentation session Ⅱ",
           "personJa": "発表者名、発表題目、所属を記載します。",
           "personEn": "List presenters, presentation titles, and affiliations."
         },
         {
-          "time": "13:30–17:00",
-          "typeJa": "ワークショップ",
-          "typeEn": "Workshop",
-          "titleJa": "方法論ワークショップ",
-          "titleEn": "Methodology workshop",
-          "personJa": "担当者名（所属機関）",
-          "personEn": "Facilitator name (Affiliation)"
+          "time": "18:00-20:00",
+          "typeJa": "ポスター",
+          "typeEn": "Poster Session",
+          "titleJa": "ポスターセッション & 懇親会",
+          "titleEn": "Poster Session & Networking Dinner"
+        },
+        {
+          "time": "20:30-22:00",
+          "typeJa": "ディスカッション",
+          "typeEn": "Discussion",
+          "titleJa": "Open Discussion",
+          "titleEn": "Open Discussion"
         }
       ]
     },
     {
-      "date": "2026-09-14",
-      "labelJa": "3日目",
-      "labelEn": "Day 3",
-      "dateJa": "2026年9月14日（月）",
-      "dateEn": "Monday, September 14, 2026",
+      "date": "2027-03-10",
+      "labelJa": "2日目",
+      "labelEn": "Day 2",
+      "dateJa": "2027年3月10日（水）",
+      "dateEn": "Wednesday, March 10, 2027",
       "sessions": [
         {
-          "time": "09:30–11:30",
-          "typeJa": "総合討論",
-          "typeEn": "Discussion",
-          "titleJa": "総合討論と今後の共同研究",
-          "titleEn": "General discussion and future collaboration",
-          "personJa": "モデレーター名（所属機関）",
-          "personEn": "Moderator name (Affiliation)"
+          "time": "8:00-9:00",
+          "typeJa": "Networking",
+          "typeEn": "Networking",
+          "titleJa": "Networking Coffee Break",
+          "titleEn": "Networking Coffee Break"
         },
         {
-          "time": "11:30–12:00",
+          "time": "9:00-10:30",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション Ⅲ(日本語)",
+          "titleEn": "Research presentation session Ⅲ(Japanese)",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        },
+        {
+          "time": "11:00-11:45",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション Ⅳ(日本語)",
+          "titleEn": "Research presentation session Ⅳ(Japanese)",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        },
+        {
+          "time": "13:00-13:50",
+          "typeJa": "ポスター",
+          "typeEn": "Poster Session",
+          "titleJa": "ポスターセッション",
+          "titleEn": "Poster Session"
+        },
+        {
+          "time": "14:00-15:30",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション Ⅴ",
+          "titleEn": "Research presentation session Ⅴ",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        },
+        {
+          "time": "16:00-17:30",
+          "typeJa": "研究発表",
+          "typeEn": "Research Presentations",
+          "titleJa": "研究発表セッション Ⅵ",
+          "titleEn": "Research presentation session Ⅵ",
+          "personJa": "発表者名、発表題目、所属を記載します。",
+          "personEn": "List presenters, presentation titles, and affiliations."
+        },
+        {
+          "time": "18:00-20:30",
+          "typeJa": "Networking",
+          "typeEn": "Networking",
+          "titleJa": "懇親会",
+          "titleEn": "Workshop Dinner"
+        },
+        {
+          "time": "21:00-22:00",
+          "typeJa": "ディスカッション",
+          "typeEn": "Discussion",
+          "titleJa": "Open Discussion",
+          "titleEn": "Open Discussion"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-11",
+      "labelJa": "3日目",
+      "labelEn": "Day 3",
+      "dateJa": "2027年3月11日（木）",
+      "dateEn": "Thursday, March 11, 2027",
+      "sessions": [
+        {
+          "time": "8:00-9:00",
+          "typeJa": "Networking",
+          "typeEn": "Networking",
+          "titleJa": "Networking Coffee Break",
+          "titleEn": "Networking Coffee Break"
+        },
+        {
+          "time": "09:00-11:00",
+          "typeJa": "ワークショップ",
+          "typeEn": "Workshop",
+          "titleJa": "Research Mixer",
+          "titleEn": "Research Mixer",
+          "personJa": "実行委員企画",
+          "personEn": "Organizing Commitee"
+        },
+        {
+          "time": "11:15-11:30",
           "typeJa": "閉会",
           "typeEn": "Closing",
           "titleJa": "まとめ・閉会挨拶",
           "titleEn": "Summary and closing remarks",
-          "personJa": "主催者名（所属）",
-          "personEn": "Organizer name (Affiliation)"
+          "personJa": "実行委員長",
+          "personEn": "Organizing Commitee Chair"
+        },
+        {
+          "time": "13:00-17:00",
+          "typeJa": "Open Session",
+          "typeEn": "Open Session",
+          "titleJa": "(Optional) Research Lounge",
+          "titleEn": "Research Lounge (Optional)"
+        },
+        {
+          "time": "17:00-18:00",
+          "typeJa": "Internal",
+          "typeEn": "Internal",
+          "titleJa": "(Organizing Staff Only) Organizing Committee Meeting",
+          "titleEn": "Organizing Committee Meeting (Organizing Staff Only)"
         }
       ]
     }

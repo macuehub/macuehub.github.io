@@ -1,0 +1,304 @@
+{
+  "groups": [
+    {
+      "id": "venue",
+      "titleJa": "会場について",
+      "titleEn": "Venue",
+      "items": [
+        {
+          "questionJa": "会場までのアクセス方法を教えてください。",
+          "questionEn": "How can I get to the venue?",
+          "answerJa": "詳細は「開催場所」ページをご確認ください。最寄り駅からのアクセスやキャンパスマップを掲載予定です。",
+          "answerEn": "Please see the Venue page for access information, including directions from the nearest station and a campus map."
+        },
+        {
+          "questionJa": "会場内でWi-Fiを利用できますか。",
+          "questionEn": "Is Wi-Fi available at the venue?",
+          "answerJa": "eduroamが使用可能です。現地でのみ利用可能なWi-Fiも用意します（接続方法は会場で案内します）。",
+          "answerEn": "Eduroam is available. We will also provide local Wi-Fi network(connection procedure will be announce on site)."
+        },
+        {
+          "questionJa": "早朝や深夜に会場や大学に出入りできますか。",
+          "questionEn": "Is it possible to access the workshop venue or university campus early in the morning or late at night?",
+          "answerJa": "0:00-7:00の間は会場を施錠予定です。また、8:30-17:30以外の時間帯は大学建物の出入りにはカードキーが必要です。参加者間での協力をお願いします。",
+          "answerEn": "The workshop venue will be locked from midnight to 7:00 a.m. In addition, a key card is required to enter or exit university buildings outside the hours of 8:30 a.m. to 5:30 p.m. We kindly ask participants to cooperate with one another when accessing the buildings outside regular hours."
+        }
+      ]
+    },
+    {
+      "id": "participation",
+      "titleJa": "参加について",
+      "titleEn": "Participation",
+      "items": [
+        {
+          "questionJa": "参加登録は必要ですか。",
+          "questionEn": "Is registration required?",
+          "answerJa": "はい。参加登録ページから期限までにお申し込みください。",
+          "answerEn": "Yes. Please register through the Registration page by the deadline."
+        },
+        {
+          "questionJa": "参加費はいくらになりますか。",
+          "questionEn": "How much is the registration fee?",
+          "answerJa": "懇親会用に数千円程度を予定しております。申請中の助成金の結果によって変動しますので、最終的な参加費は1月下旬~2月上旬にアナウンスします。",
+          "answerEn": "The registration fee is expected to be a few thousand Japanese yen to cover the cost of the social gathering. However, the exact amount will depend on the outcome of our pending grant applications. The final registration fee will be announced between late January and early February."
+        },
+        {
+          "questionJa": "参加費はいつ・どのように払えば良いですか。",
+          "questionEn": "When and how should I pay the registration fee?",
+          "answerJa": "最終的な参加費の決定後に案内します。支払い方法は現段階では未定です。",
+          "answerEn": "We will provide further details once the final registration fee has been determined. The payment method has not yet been decided."
+        },
+        {
+          "questionJa": "旅費や宿泊費の支援はありますか。",
+          "questionEn": "Is travel or accommodation support available?",
+          "answerJa": "若手研究者を中心に旅費支援を実施します。宿泊に関しては、大学の宿泊施設を利用していただく予定ですが、定員を超過してかつ予算に余裕がある場合に限り、大学近隣の宿泊費を補助します。対象者、上限額、申請方法などの詳細は参加登録ページをご確認ください。",
+          "answerEn": "Travel support will be provided primarily to early-career researchers. Participants receiving travel support are expected to stay in university accommodation. However, if the capacity of the university accommodation is exceeded and sufficient funds are available, we may also provide financial support for accommodation near the university. Please see the Registration page for eligibility, limits, and application procedures."
+        },
+        {
+          "questionJa": "研究会の一部の日程だけ参加することはできますか。",
+          "questionEn": "Can I attend only part of the workshop?",
+          "answerJa": "部分参加も可能です。部分参加をご希望の場合は、参加登録時にその旨をご記入ください。",
+          "answerEn": "Yes. If you need to attend only part of the event, please indicate this when registering."
+        },
+        {
+          "questionJa": "前泊や後泊は可能ですか。",
+          "questionEn": "Are overnight stays before or after the workshop permitted?",
+          "answerJa": "旅費支援対象者は総合研究大学院大学の旅費規定に基づき、午前7時出発で間に合わない場合または午後22時までに帰着できない場合に前泊や後泊が認められています。それ以外の方は所属先や予算元の規定に基づき判断してください。不明な場合は個別に問い合わせください。",
+          "answerEn": "In accordance with the travel regulations of SOKENDAI (The Graduate University for Advanced Studies), participants receiving travel support are permitted to stay overnight before or after the workshop if departing at 7:00 a.m. would not allow them to arrive on time, or if they cannot return home by 10:00 p.m. Other participants should follow the travel regulations of their home institutions or funding sources when determining whether overnight stays are permitted. If you are unsure, please contact us directly for clarification."
+        },
+        {
+          "questionJa": "アシスタントスタッフとはなんですか。",
+          "questionEn": "What is an assistant staff member?",
+          "answerJa": "運営委員の他に、会期前日の準備および会期中の運営を手伝っていただける方々のことです。",
+          "answerEn": "Assistant staff members are volunteers who help the organizing committee with preparations on the day before the workshop and with operations during the workshop."
+        },
+        {
+          "questionJa": "アシスタントスタッフに申し込むにはどうすれば良いですか。",
+          "questionEn": "How can I apply to be an assistant staff member?",
+          "answerJa": "「参加登録」のページから応募フォームにご登録ください。",
+          "answerEn": "Please fill out the application form under the \"Registration\" tab."
+        },
+        {
+          "questionJa": "アシスタントスタッフは会期前日を含め全ての日程で参加できる必要がありますか。",
+          "questionEn": "Are assistant staff members required to be available for the entire workshop, including the day before it begins?",
+          "answerJa": "対応可能な範囲で問題ありません。応募フォーム中で対応可能な日程を選択してください。",
+          "answerEn": "No, you are welcome to help on the days you are available. Please indicate your availability in the application form."
+        },
+        {
+          "questionJa": "初日の午前や最終日の午後など、会期前後に個別に打ち合わせすることは可能ですか。",
+          "questionEn": "Is it possible to arrange individual meetings before or after the workshop sessions, such as on the morning of the first day or the afternoon of the last day?",
+          "answerJa": "可能です。特に、3日目午後のResearch Loungeのセッションは、さまざまな打ち合わせを行うための時間として設けております。打ち合わせにより追加での前泊・後泊が必要になる場合は個別にご相談ください。",
+          "answerEn": "Yes. In particular, the Research Lounge session on the afternoon of the third day is specifically intended to provide time for various meetings and discussions. If you need additional overnight stays before or after the workshop to accommodate such meetings, please contact us to discuss your arrangements."
+        },
+        {
+          "questionJa": "なぜ1日目午前や3日目午後のプログラムは任意参加なのですか。",
+          "questionEn": "Why is participation in the morning session on the first day and the afternoon session on the third day optional?",
+          "answerJa": "参加における柔軟さを確保するためです。任意参加ではあるものの、良い交流の機会だと思いますので、都合が付くのであれば是非参加いただければと思います。",
+          "answerEn": "To provide greater flexibility for participants. Although these sessions are optional, we believe they offer valuable opportunities for interaction and networking. We therefore encourage you to participate if your schedule allows."
+        },
+        {
+          "questionJa": "3日目午後のプログラムを途中抜けすることはできますか。",
+          "questionEn": "Can I leave the afternoon session on the third day early?",
+          "answerJa": "はい。翌日のスケジュールや飛行機の時間など個々人の状況に応じて、柔軟に退出してもらって大丈夫です。",
+          "answerEn": "Yes. You are welcome to leave early depending on your individual circumstances, such as your schedule for the following day or your flight departure time."
+        },
+        {
+          "questionJa": "任意参加のプログラムなど、参加日程を変更するにはどうすれば良いですか。",
+          "questionEn": "How can I change my attendance schedule, including participation in optional sessions?",
+          "answerJa": "気軽に問い合わせのメールアドレスにご連絡ください。2・3度の変更も構いませんので、まずは参加登録していただければと思います。",
+          "answerEn": "Please feel free to contact us at our inquiry email address if you need to change your attendance schedule. You are welcome to make changes more than once, so we encourage you to register first, even if your schedule is not yet finalized."
+        },
+        {
+          "questionJa": "締切前に他の参加者の申し込み状況を知ることはできますか。",
+          "questionEn": "Can I find out who else has registered before the registration deadline?",
+          "answerJa": "定期的にプログラムPDFの参加者一覧を更新しますので、そちらをご参照ください。ただし、任意参加のプログラムへの参加予定などは、各個人の都合によって変更になる可能性があります。",
+          "answerEn": "We will periodically update the participant list in the program PDF, so please refer to it for the latest information. However, please note that participation in optional sessions may change depending on individual circumstances."
+        },
+        {
+          "questionJa": "学部生や修士学生ですが参加することはできますか？",
+          "questionEn": "Can undergraduate and master's students participate?",
+          "answerJa": "参加可能です。ただし、ある程度の専門的な知識を前提とした議論が予想されるので、研究経験や自習を通して各自で事前知識を身に付けておくことを強く推奨します。",
+          "answerEn": "Yes, you are welcome to participate. However, as the discussions are expected to assume a certain level of specialized knowledge, we strongly recommend that participants acquire the necessary background knowledge in advance through research experience or independent study."
+        },
+        {
+          "questionJa": "事前知識として想定されるものはどのようなものでしょうか？",
+          "questionEn": "What kind of background knowledge is expected of participants?",
+          "answerJa": "数学的な基礎知識(微分・積分・漸化式・線形代数)はあることが望ましいです。他にも代表的なキーワードを挙げておきます: Evolutionary game theory(進化ゲーム理論), Population genetics(集団遺伝学), Wright-Fisher process, Moran process, Adaptive Dynamics, Optimal Control(最適制御), Dynamic programming(動的最適化), Reinforement Learning(強化学習), Baysian statistics(ベイズ統計学)",
+          "answerEn": "A basic understanding of mathematics, including differentiation, integration, recurrence relations, and linear algebra, is desirable. Other relevant topics and keywords include evolutionary game theory, population genetics, the Wright–Fisher process, the Moran process, adaptive dynamics, optimal control, dynamic programming, reinforcement learning, and Bayesian statistics."
+        },
+        {
+          "questionJa": "事前学習のために良い書籍・サイトはありますか？",
+          "questionEn": "Are there any recommended books or websites for preparing for the workshop in advance?",
+          "answerJa": "日本語書籍では「生き物の進化ゲーム(共立出版)」「文化進化の数理(森北出版)」、Web資料では「集団遺伝学の基礎(大槻久教授ホームページ資料)」などがあります。手計算をして学習することを強く推奨します。学習の過程で不明な点があれば、個別に運営までお問い合わせいただければ可能な範囲で助言・コメントします。",
+          "answerEn": "Recommended Japanese-language books include 生き物の進化ゲーム (Evolutionary Games of Living Things, Kyoritsu Shuppan) and 文化進化の数理 (Mathematics of Cultural Evolution, Morikita Publishing). For online resources, 集団遺伝学の基礎 (Fundamentals of Population Genetics), available on Professor Hisashi Ohtsuki's website, is also recommended."
+        },
+        {
+          "questionJa": "数理モデルを専門としていないですが、参加可能ですか？",
+          "questionEn": "Can I participate even if I do not specialize in mathematical modeling?",
+          "answerJa": "可能です。ただし、文化進化や人間行動に関する測定のための理論的な発展や、数理モデル研究者との将来的な共同研究に向けた関係構築など、数理モデル研究・研究者に関連した関心を持つことを条件とします。参加者には、主催者と親交のある潜在的な共同研究者が含まれる予定です。",
+          "answerEn": "Yes. However, we ask that you have an interest in mathematical modeling research or in engaging with researchers in the field. Such interests may include developing theoretical frameworks for measuring cultural evolution and human behavior, or building connections with mathematical modelers for potential future collaborations. Some participants are also expected to be potential research collaborators who already have established relationships with the organizers."
+        },
+        {
+          "questionJa": "日本の研究機関の所属ではないですが、参加できますか。",
+          "questionEn": "Can I participate even if I am not affiliated with a research institution in Japan?",
+          "answerJa": "参加可能です。ただし、旅費支援やビザについては対応できないことがあります。少なくとも、資金的な制約のため、ヨーロッパやアメリカからの参加者への旅費支援はできません。事前に個別にご相談ください。",
+          "answerEn": "Yes, you are welcome to participate. However, please note that we may not be able to provide travel support or assistance with visa arrangements. In particular, due to budget constraints, we are unable to offer travel support to participants traveling from Europe or the United States. Please contact us in advance to discuss your individual circumstances."
+        }
+      ]
+    },
+    {
+      "id": "presentation",
+      "titleJa": "発表について",
+      "titleEn": "Presentation",
+      "items": [
+        {
+          "questionJa": "発表は必須ですか。",
+          "questionEn": "Do I have to do a presentation?",
+          "answerJa": "口頭発表者以外は原則としてポスター発表が必須です。ポスターの形式は新たにポスターを作成いただくオリジナルポスターか、過去の学会で利用したポスターを再活用するリサイクルポスターの2種類から選べます。",
+          "answerEn": "As a general rule, all participants who are not giving an oral presentation are required to present a poster. Participants can choose between two types of posters: an original poster, newly prepared for this workshop, or a recycled poster, previously presented at an academic conference."
+        },
+        {
+          "questionJa": "参加者名簿やポスター演題は公表されますか。",
+          "questionEn": "Will the list of participants and poster presentation titles be made public?",
+          "answerJa": "プログラムにて演題・発表者名を公開します。",
+          "answerEn": "Presentation titles and presenters' names will be made public in the workshop program."
+        },
+        {
+          "questionJa": "参加申込時に発表内容について決まっている必要がありますか。",
+          "questionEn": "Do I need to have decided on my presentation topic at the time of registration?",
+          "answerJa": "いいえ。参加申込と発表申込のフォームは別になっていますので、ポスター発表の内容が決まっていなくても先に参加申込することが可能です。それぞれ所定の期日までに回答をお願いします。",
+          "answerEn": "No. The registration form for workshop participation and the presentation submission form are separate, so you can register for the workshop even if you have not yet decided on your poster presentation topic. Please submit each form by its respective deadline."
+        },
+        {
+          "questionJa": "口頭発表を申し込むことができますか。",
+          "questionEn": "How many minutes will be allotted for each oral presentation?",
+          "answerJa": "現時点では未定です。いくつかの枠を設けたいと思っていますが、現在プログラムのスロット数を調整中のため、決まり次第ご案内します。",
+          "answerEn": "This has not yet been decided. We hope to offer a few slots for oral presentations, but we are currently adjusting the program schedule. We will provide an update once the details have been finalized."
+        },
+        {
+          "questionJa": "口頭発表は1人何分でしょうか。",
+          "questionEn": "Can I apply to give an oral presentation?",
+          "answerJa": "1人あたり45分を想定しています。質疑応答の時間配分やタイミングは、発表者がそれぞれ決めるものとします。",
+          "answerEn": "Each oral presentation is expected to be allotted 45 minutes. Presenters may decide how much time to allocate for Q&A and when to take questions during their presentations."
+        },
+        {
+          "questionJa": "リサイクルポスターとはなんですか。",
+          "questionEn": "What is the \"recycled poster\" ?",
+          "answerJa": "他の学会・研究会で発表したポスターを再利用したポスター発表です。本ワークショップでは学会・研究会では時間の都合で議論しきれなかった部分に踏み込んで議論することに主眼を置いており、また同じ内容でも参加者が異なれば生じる議論や得られるコメントも異なるため、議論の足掛かりとしてリサイクルポスターは有用だと考えてます。",
+          "answerEn": "A recycled poster presentation is a presentation that reuses a poster previously presented at another conference or workshop. One of the main goals of this workshop is to encourage in-depth discussions on topics that could not be fully explored at previous conferences or workshops due to time constraints. Furthermore, even when the same research is presented, different participants may bring new perspectives, leading to different discussions and feedback. We therefore believe that recycled posters can serve as valuable starting points for meaningful discussions."
+        },
+        {
+          "questionJa": "なぜリサイクルポスターの区分があるのですか。",
+          "questionEn": "Why is there a category for recycled posters?",
+          "answerJa": "それぞれの人にとって最適な議論のために労力を費やすことができるようにするためです。ポスター発表は議論の足掛かりです。ポスター発表には、同じ内容でも参加者が異なれば生じる議論や得られるコメントも異なる、一度使ったポスターを二度以上使わないというのは資源消費の観点から問題である、学生など研究費に乏しい人にとっては複数回のポスター印刷が難しい、といった事情があります。リサイクルポスターはこれらの点を解決するものだと考えています。",
+          "answerEn": "The purpose is to allow participants to focus their time and effort on the discussions that are most valuable to them. Poster presentations are intended to serve as starting points for discussion rather than ends in themselves. Even when the same research is presented, different participants may bring new perspectives, leading to different discussions and feedback. In addition, discarding a poster after a single use raises concerns about resource consumption, and printing new posters for multiple events can be financially challenging, particularly for students and researchers with limited funding. We believe that allowing recycled posters helps address these issues and enables participants to focus more on meaningful scientific discussions."
+        },
+        {
+          "questionJa": "発表はリサイクルポスターですが、持ち込んだパソコンやホワイトボードを使って関連する内容を議論することはできますか。",
+          "questionEn": "Can I use my own laptop or a whiteboard to discuss related topics during my recycled poster presentation?",
+          "answerJa": "もちろんです。ポスターの内容自体はリサイクルポスターとしつつ、更なる解析を進めてその内容を議論することもできます。そのための時間とホワイトボードは十分に確保する予定です。",
+          "answerEn": "Of course! Even if you use a recycled poster, you are welcome to present and discuss additional analyses or new findings related to your research. We plan to provide ample time and whiteboards to facilitate such discussions."
+        },
+        {
+          "questionJa": "リサイクルポスターによって二重投稿・業績水増しの誤解を受けることはありませんか。",
+          "questionEn": "Could presenting a recycled poster lead to misunderstandings about duplicate submissions or the inflation of academic achievements?",
+          "answerJa": "プログラムに「オリジナルポスター」と「リサイクルポスター」を明記することで、誤解を受けることを防げると考えています。本ワークショップでの発表を業績として記載する際は、個々人の判断で適切な記載を行うものとします。",
+          "answerEn": "We believe that clearly distinguishing between \"Original Posters\" and \"Recycled Posters\" in the workshop program will help prevent such misunderstandings. When listing presentations from this workshop as academic achievements, participants are expected to use their own judgment and describe them appropriately."
+        },
+        {
+          "questionJa": "口頭発表はオリジナルな発表ですか。",
+          "questionEn": "Are oral presentations required to present original research?",
+          "answerJa": "はい。口頭発表は全てオリジナルな発表です。",
+          "answerEn": "Yes. All oral presentations are required to present original ones."
+        },
+        {
+          "questionJa": "発表言語は英語ですか。ワークショップ中はずっと英語を話し続けるのでしょうか。",
+          "questionEn": "Are presentations required to be in English? Will we be expected to speak English throughout the workshop?",
+          "answerJa": "2日目の午前中に、日本語で発表できるセッションを設ける予定です。また、英語発表のセッションでも、ポスターセッションでの少人数でのディスカッションや質疑応答などでは、適宜日本語でコミュニケーションしていただいて問題ありません。最終的な日本語セッションと英語セッションの比率は、参加者・発表者に合わせて調整して決定します。",
+          "answerEn": "We plan to have a session on the morning of the second day in which participants can give presentations in Japanese. Even during sessions conducted in English, participants are welcome to communicate in Japanese when appropriate, particularly during small-group discussions at poster sessions and Q&A sessions. The final balance between Japanese-language and English-language sessions will be determined based on the needs of the participants and presenters."
+        },
+        {
+          "questionJa": "英語が話せるかどうかが不安ですが、大丈夫でしょうか。",
+          "questionEn": "I'm concerned about my ability to communicate in English. Will that be a problem?",
+          "answerJa": "問題ありません。ホワイトボードを用いた筆談や、ポスターを英語で作成しておくなど、可能な範囲で取り組んでいただければと思います。海外の国際学会やワークショップに参加する前の経験としてチャレンジしてみてください。必要に応じて、質疑応答の通訳の補助など、参加者の皆さんにご協力いただければと思います。英語話者の方に関しては、優しくコミュニケーションを取っていただければと思います。",
+          "answerEn": "Not at all. We encourage you to communicate in whatever ways you feel comfortable with, such as using a whiteboard to explain your ideas or preparing your poster in English. We hope you will take this opportunity to practice communicating in English before attending international conferences or workshops abroad. We also encourage participants to support one another when needed, for example, by helping with interpretation during Q&A sessions. We kindly ask English-speaking participants to be patient and supportive when communicating with those who are less confident in English."
+        }
+      ]
+    },
+    {
+      "id": "accomodation",
+      "titleJa": "宿泊について",
+      "titleEn": "Accomodation",
+      "items": [
+        {
+          "questionJa": "宿泊は無料ですか。",
+          "questionEn": "Is accommodation free of charge?",
+          "answerJa": "会期中の大学内の宿泊施設利用は無料で宿泊いただけます。前泊・後泊の宿泊費は個別判断となりますので、個別にお問い合わせください。1泊あたり学生1,000円、学生以外2,100円です。",
+          "answerEn": "Accommodation at the university's facilities is free of charge during the workshop. Financial support for additional overnight stays before or after the workshop will be considered on a case-by-case basis, so please contact us individually for details. The regular accommodation fees are JPY 1,000 per night for students and JPY 2,100 per night for non-students."
+        },
+        {
+          "questionJa": "宿泊は個室ですか。",
+          "questionEn": "Will participants have private rooms for accommodation?",
+          "answerJa": "大学内の宿泊施設利用は原則として同性での相部屋となります。個室を希望する場合は外部宿泊施設に宿泊いただくことになりますが、宿泊費の補助が保証できなくなります。",
+          "answerEn": "As a general rule, accommodation at the university will be in shared rooms with participants of the same gender. If you prefer a private room, you will need to stay at an off-campus accommodation facility. However, please note that financial support for off-campus accommodation cannot be guaranteed."
+        },
+        {
+          "questionJa": "大学宿泊施設のアメニティについて教えてください。",
+          "questionEn": "What amenities are provided at the university accommodation facilities?",
+          "answerJa": "あり:冷蔵庫,電子レンジ,電気ポット,ドライヤー,ボディーソープ,リンスインシャンプー,ナイトガウン,ハンドタウル,バスタオル,バスマット,ハンガー \nなし:歯ブラシ,シェーバー",
+          "answerEn": "Available amenities: Refrigerator, microwave, electric kettle, hair dryer, body soap, 2-in-1 shampoo and conditioner, nightgown, hand towel, bath towel, bath mat, and hangers. \nNot provided: Toothbrushes and razors."
+        },
+        {
+          "questionJa": "子連れで参加したいのですが、子どもや配偶者は宿泊可能ですか。",
+          "questionEn": "I would like to attend the workshop with my family. Can my children and spouse also stay at the accommodation facilities?",
+          "answerJa": "子連れ参加者の受け入れは前向きに検討させていただき、親子・家族での宿泊施設の手配など、可能な範囲で対応できればと考えております。子供の年齢や大学宿泊施設の設備の状況によって対応できるかどうかの判断が異なると思いますので、事前に個別にご相談ください。",
+          "answerEn": "We are happy to consider accommodating participants who wish to attend with their children and will do our best to make suitable arrangements, including accommodation for parents and children or families, where possible. However, our ability to accommodate such requests may depend on factors such as the children's ages and the facilities available at the university accommodation. Please contact us in advance to discuss your individual needs and arrangements."
+        }
+      ]
+    },
+        {
+      "id": "travelsupport",
+      "titleJa": "旅費支援について",
+      "titleEn": "Travel Support",
+      "items": [
+        {
+          "questionJa": "ポスドクは旅費支援の対象ですか。",
+          "questionEn": "Are postdoctoral researchers eligible for travel support?",
+          "answerJa": "ポスドクの方でも旅費支援に申し込んでいただくことは可能です。ただし、選定において学部生・大学院生が優先されることは承知おきください。",
+          "answerEn": "Postdoctoral researchers are also welcome to apply for travel support. However, please note that undergraduate and graduate students will be given priority in the selection process."
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "titleJa": "その他",
+      "titleEn": "Other",
+      "items": [
+        {
+          "questionJa": "プログラムはどこで確認できますか。",
+          "questionEn": "Where can I find the program?",
+          "answerJa": "トップページの「プログラム」欄から確認できます。PDF版を公開している場合は、同じ場所から閲覧・ダウンロードできます。",
+          "answerEn": "The program is available in the Program section on the home page. If a PDF version is available, it can also be viewed or downloaded there."
+        },
+        {
+          "questionJa": "飲食物の差し入れは可能ですか。",
+          "questionEn": "Can I bring food or drinks to share with other participants?",
+          "answerJa": "可能です。休憩時間に食べる各地のお土産のお菓子や、懇親会用のアルコール類の差し入れは大歓迎です。",
+          "answerEn": "Yes, you are welcome to bring food and drinks to share with other participants. We especially appreciate local snacks and sweets from your region for participants to enjoy during breaks, as well as alcoholic beverages for the social gathering."
+        },
+        {
+          "questionJa": "問い合わせたのですが返信が届きません。",
+          "questionEn": "I have sent an inquiry but have not received a response.",
+          "answerJa": "2週間以上返答がない場合や、急ぎの場合は shimodaira_tsuyoshi[@ mark here]soken.ac.jp までお問い合わせください。なお、実行委員長の博士論文執筆のため、反応が遅くなる場合があります。特に11月中旬〜下旬・年末年始は反応が遅くなる可能性が高いです。",
+          "answerEn": "If you have not received a response within two weeks, or if your inquiry is urgent, please contact us at shimodaira_tsuyoshi[@ mark here]soken.ac.jp. Please note that responses may be delayed as the chair of the organizing committee is currently working on their doctoral dissertation. Delays are particularly likely in mid-to-late November and during the year-end and New Year holiday period."
+        },
+        {
+          "questionJa": "FAQにない質問はどこに問い合わせればよいですか。",
+          "questionEn": "Who should I contact if my question is not listed here?",
+          "answerJa": "サイト下部に掲載している実行委員会の連絡先までお問い合わせください。",
+          "answerEn": "Please contact the organizing committee using the contact information provided at the bottom of the website."
+        }
+      ]
+    }
+  ]
+}
